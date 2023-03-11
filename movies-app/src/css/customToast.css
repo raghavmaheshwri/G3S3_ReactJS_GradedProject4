@@ -1,0 +1,18 @@
+.customToast{
+    padding: 10px;
+    z-index: 9;
+    border-radius: 5px;
+    font-size: 13px;
+    width: 100%;
+    text-align: center;
+}
+
+.customToastSuccess {
+    background-color: green !important;
+    color: white;
+}
+
+.customToastError{
+    background-color: red;
+    color: white;
+}
